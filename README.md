@@ -24,6 +24,9 @@
 - 🌎 Passionate about empowering the **Latin America** developer ecosystem
 - 🤖 Big believer in **AI-assisted development** and modern DevOps practices
 - 🗣️ Bilingual: **English & Spanish**
+- ✈️ Avid traveler with **21 countries visited** (and counting)
+- 🎮 Geek at heart: **comics, manga, anime, video games, and cartoons**
+- ⚡ Also a pretty great **Pokemon Trainer** (badges pending 😄)
 
 ---
 
