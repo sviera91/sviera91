@@ -76,6 +76,40 @@
 
 ---
 
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sviera91&theme=github-dark&hide_border=true" height="220" />
+</p>
+
+---
+
+## 🎵 What I'm Listening to
+
+<p align="center">
+  <a href="https://open.spotify.com/user/stewartviera">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=stewartviera&count=5" alt="Spotify Recently Played" />
+  </a>
+</p>
+
+---
+
+## 🏅 Professional Certifications (Credly)
+
+<p align="center">
+  <a href="https://www.credly.com/users/stewart-viera/badges">
+    <img src="https://images.credly.com/size/680x680/images/4bc21d8b-4bbe-4146-9981-baf9fbf50a15/GCP_PCA_2020.png" alt="GCP Professional Cloud Architect" height="100" />
+    <img src="https://images.credly.com/size/680x680/images/0bf0f2da-590c-4936-82df-6c709bcf4158/image.png" alt="GCP Professional Cloud DevOps Engineer" height="100" />
+    <img src="https://images.credly.com/size/680x680/images/e1fc17b6-ffe7-4e99-9c3e-babf829c79c3/image.png" alt="Terraform Associate" height="100" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.credly.com/users/stewart-viera/badges"><b>View all certifications on Credly →</b></a>
+</p>
+
+---
+
 ## 🎓 Certifications
 
 <details>
