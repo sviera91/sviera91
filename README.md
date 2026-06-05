@@ -105,24 +105,16 @@
 ## 🏅 Certifications & Badges
 
 <p align="center">
-  <a href="https://www.credly.com/users/stewart-viera">
-    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile" />
-  </a>
+  <a href="https://www.credly.com/badges/515a23f5-7150-4f3a-bad8-9230cc97478a"><img src="https://images.credly.com/size/100x100/images/41a99dd3-c690-4bbf-94cb-6548ee930c13/blob" alt="Badge" /></a>&nbsp;
+  <a href="https://www.credly.com/badges/eef3d1ce-1edd-44e0-b18e-dc207be5a356"><img src="https://images.credly.com/size/100x100/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" alt="Badge" /></a>&nbsp;
+  <a href="https://www.credly.com/badges/3cf0d48a-bc34-4ce8-b43b-0934f38fd7c0"><img src="https://images.credly.com/size/100x100/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob" alt="Badge" /></a>&nbsp;
+  <a href="https://www.credly.com/badges/4e085f86-9142-4659-9c73-a161d02e4ba4"><img src="https://images.credly.com/size/100x100/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="Badge" /></a>&nbsp;
+  <a href="https://www.credly.com/badges/5df149c5-9932-4768-a9e5-86bf12b1ca76"><img src="https://images.credly.com/size/100x100/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="Badge" /></a>&nbsp;
+  <a href="https://www.credly.com/badges/bb77a112-8872-4835-9f1c-9eade91d5872"><img src="https://images.credly.com/size/100x100/images/33f08b7e-fa6a-41cd-810a-21cc1c336f6d/image.png" alt="Badge" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GCP_Professional_Cloud_Architect-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP_Cloud_DevOps_Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP_Cloud_Developer-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Solutions_Architect_Expert-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps_Engineer_Expert-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_Security_Engineer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_DevOps_Engineer-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Developer-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_SysOps-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform_Associate-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <a href="https://www.credly.com/users/stewart-viera"><b>→ View all badges on Credly</b></a>
 </p>
 
 <details>
