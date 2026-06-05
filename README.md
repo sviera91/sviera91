@@ -95,18 +95,10 @@
 ## 🎵 Now Playing
 
 <p align="center">
-  <a href="https://open.spotify.com/user/1269542784">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1269542784&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1269542784&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1269542784&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
   </a>
 </p>
-
-> 💡 *If the widget above shows an error, I need to authorize the service — [click here](https://spotify-github-profile.kittinanx.com/) to check. In the meantime, [find me on Spotify](https://open.spotify.com/user/1269542784)!*
 
 ---
 
