@@ -105,7 +105,7 @@
 ## 🏅 Certifications & Badges
 
 <p align="center">
-  <a href="https://www.credly.com/users/stewartviera">
+  <a href="https://www.credly.com/users/stewart-viera">
     <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile" />
   </a>
 </p>
