@@ -35,31 +35,39 @@
 
 ---
 
-## ��️ Tech & Tools
+## 🧰 Tech & Tools
 
 ### ☁️ Cloud Platforms
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-web-services&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+</p>
 
 ### 🚀 DevOps & Infrastructure
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azure-devops&logoColor=white)
-![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazon-web-services&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+</p>
 
 ### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
+</p>
 
 ### 🤖 AI & Emerging Tech
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
@@ -76,20 +84,57 @@
 
 ---
 
-## 🎵 What I'm Listening to
+## 🔥 Contribution Streak
 
 <p align="center">
-  <a href="https://open.spotify.com/user/1269542784">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1269542784&count=5" alt="Spotify Recently Played" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sviera91&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🎓 Certifications
+## 🎵 Now Playing
+
+<p align="center">
+  <a href="https://open.spotify.com/user/1269542784">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=1269542784&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=1269542784&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+> 💡 *If the widget above shows an error, I need to authorize the service — [click here](https://spotify-github-profile.kittinanx.com/) to check. In the meantime, [find me on Spotify](https://open.spotify.com/user/1269542784)!*
+
+---
+
+## 🏅 Certifications & Badges
+
+<p align="center">
+  <a href="https://www.credly.com/users/stewartviera">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GCP_Professional_Cloud_Architect-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP_Cloud_DevOps_Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP_Cloud_Developer-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Solutions_Architect_Expert-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps_Engineer_Expert-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Security_Engineer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Solutions_Architect-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_DevOps_Engineer-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Developer-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_SysOps-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform_Associate-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+</p>
 
 <details>
-<summary><b>Cloud & Infrastructure (Click to expand)</b></summary>
+<summary><b>📋 Full Certification Details (Click to expand)</b></summary>
 
 **Google Cloud**
 - Professional Cloud Architect (2021–2027)
@@ -127,8 +172,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sviera91&theme=github-dark" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sviera91&theme=github-dark" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sviera91&theme=github_dark" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sviera91&theme=github_dark" height="170" />
 </p>
 
 ---
