@@ -24,14 +24,14 @@
 - 🐙 **Sr. Technical Partner Manager @ GitHub** — enabling partners & developers to build amazing things
 - ☁️ **10+ years in Cloud Engineering** across **Google**, **Microsoft**, **AWS**
 - 🔄 **Customer Success focused** — pre-sales strategy + post-sales execution (PoCs, migrations, enablement)
-- 📊 **Track record**: Drove **$45M+** in new enterprise deals, **$20M+ pipeline** (2025)
+- 📊 **Track record**: Proven success in driving customer consumption and enterprise adoption across leading cloud platforms
 - 🌎 Passionate about empowering the **LATAM developer ecosystem**
 - 🤖 Big believer in **AI-assisted development** and modern DevOps practices
 - 🗣️ Bilingual: **English & Spanish** 🇺🇸🇪🇸
 - ✈️ Avid traveler with **21 countries visited** (and counting)
 - 🎮 Geek at heart: **comics, manga, anime, video games, and cartoons**
 - ⚡ Also a pretty great **Pokemon Trainer** (badges pending 😄)
-- 💜 Advocate for **LGBTQIA+ inclusion** in tech — Out in Tech mentor, Pride@Google
+- 💜 Advocate for **LGBTQIA+ inclusion** in tech
 
 ---
 
@@ -40,7 +40,7 @@
 ### ☁️ Cloud Platforms
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-web-services&logoColor=white)
 
 ### 🚀 DevOps & Infrastructure
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
@@ -76,36 +76,12 @@
 
 ---
 
-## 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sviera91&theme=github-dark&hide_border=true" height="220" />
-</p>
-
----
-
 ## 🎵 What I'm Listening to
 
 <p align="center">
-  <a href="https://open.spotify.com/user/stewartviera">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=stewartviera&count=5" alt="Spotify Recently Played" />
+  <a href="https://open.spotify.com/user/1269542784">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1269542784&count=5" alt="Spotify Recently Played" />
   </a>
-</p>
-
----
-
-## 🏅 Professional Certifications (Credly)
-
-<p align="center">
-  <a href="https://www.credly.com/users/stewart-viera/badges">
-    <img src="https://images.credly.com/size/680x680/images/4bc21d8b-4bbe-4146-9981-baf9fbf50a15/GCP_PCA_2020.png" alt="GCP Professional Cloud Architect" height="100" />
-    <img src="https://images.credly.com/size/680x680/images/0bf0f2da-590c-4936-82df-6c709bcf4158/image.png" alt="GCP Professional Cloud DevOps Engineer" height="100" />
-    <img src="https://images.credly.com/size/680x680/images/e1fc17b6-ffe7-4e99-9c3e-babf829c79c3/image.png" alt="Terraform Associate" height="100" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.credly.com/users/stewart-viera/badges"><b>View all certifications on Credly →</b></a>
 </p>
 
 ---
@@ -151,16 +127,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sviera91&theme=github_dark" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sviera91&theme=github_dark" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sviera91&theme=github_dark" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sviera91&theme=github-dark" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sviera91&theme=github-dark" height="170" />
 </p>
 
 ---
 
 <p align="center">
-  <i>"Empowering developers and partners — one repo at a time." 🚀</i>
+  <i>"Empowering developers and partners across the globe." 🚀</i>
 </p>
