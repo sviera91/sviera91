@@ -48,7 +48,7 @@ Most of my current work lives in the GitHub organization and private repositorie
   <a href="https://learn.microsoft.com/en-us/users/stewartviera-7289/credentials/8f5550251eebec44"><img src="https://images.credly.com/size/100x100/images/d8807a07-85c8-4521-ac6e-4664ddbdf94f/converted20261006-34-kx06br.png" alt="GitHub Foundations" width="100" height="100" /></a>&nbsp;
   <a href="https://www.credly.com/badges/515a23f5-7150-4f3a-bad8-9230cc97478a"><img src="https://images.credly.com/size/100x100/images/41a99dd3-c690-4bbf-94cb-6548ee930c13/blob" alt="Google Cloud Accelerate 2026 Hackathon Milestones Conquered" width="80" height="80" /></a>&nbsp;
   <a href="https://www.credly.com/badges/eef3d1ce-1edd-44e0-b18e-dc207be5a356"><img src="https://images.credly.com/size/100x100/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" alt="Google Cloud Professional Cloud Architect" width="100" height="100" /></a>&nbsp;
-  <a href="https://www.credly.com/badges/3cf0d48a-bc34-4ce8-b43b-0934f38fd7c0"><img src="https://images.credly.com/size/100x100/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob" alt="HashiCorp Certified: Terraform Associate (002)" width="80" height="80" /></a>&nbsp;
+  <a href="https://www.credly.com/badges/3cf0d48a-bc34-4ce8-b43b-0934f38fd7c0"><img src="https://images.credly.com/size/100x100/images/cd038261-9d1c-4792-bc62-3a3b5bda175c/blob" alt="HashiCorp Certified: Terraform Associate (002)" width="90" height="90" /></a>&nbsp;
   <a href="https://www.credly.com/badges/4e085f86-9142-4659-9c73-a161d02e4ba4"><img src="https://images.credly.com/size/100x100/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" alt="AWS Certified DevOps Engineer - Professional" width="100" height="100" /></a>&nbsp;
   <a href="https://www.credly.com/badges/5df149c5-9932-4768-a9e5-86bf12b1ca76"><img src="https://images.credly.com/size/100x100/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png" alt="Microsoft Certified: DevOps Engineer Expert" width="100" height="100" /></a>&nbsp;
   <a href="https://www.credly.com/badges/bb77a112-8872-4835-9f1c-9eade91d5872"><img src="https://images.credly.com/size/100x100/images/33f08b7e-fa6a-41cd-810a-21cc1c336f6d/image.png" alt="Google Cloud Professional Cloud DevOps Engineer" width="100" height="100" /></a>
@@ -152,10 +152,10 @@ Includes current and previously held certifications; dates indicate validity per
 ## 📈 Activity
 
 <details>
-<summary><b>GitHub stats, contribution streak & now playing (Click to expand)</b></summary>
+<summary><b>GitHub stats & now playing (Click to expand)</b></summary>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=sviera91&theme=onedark&no-frame=true&no-bg=true&column=6" alt="GitHub profile trophies for sviera91" />
+  <img src="https://trophy.ryglcloud.net/?username=sviera91&theme=onedark&no-frame=true&no-bg=true&column=7&title=-PullRequest,-Reviews" alt="GitHub profile trophies for sviera91" />
 </p>
 
 <p align="center">
@@ -165,10 +165,6 @@ Includes current and previously held certifications; dates indicate validity per
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sviera91&theme=github_dark" height="170" alt="GitHub activity statistics for sviera91" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sviera91&theme=github_dark" height="170" alt="Repository counts by programming language for sviera91" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sviera91&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
