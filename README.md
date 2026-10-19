@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Stewart 👋🌎</h1>
+<h1 align="center">Hey there! I'm Stewie 👋🌎</h1>
 
 <p align="center">
   <b>Sr. Technical Partner Manager @ GitHub</b> · New York, NY 🗽<br/>
