@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Sr. Technical Partner Manager @ GitHub</b> · New York, NY 🗽<br/>
-  <i>Cloud | AI | DevOps | LATAM 🇪🇸🇺🇸 (ES/EN)</i>
+  <i>Cloud | AI | DevOps | LATCAN (LATAM & Canada) 🇪🇸🇺🇸 (ES/EN)</i>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ Most of my current work lives in the GitHub organization and private repositorie
 - 🤝 **Partner enablement** — helping partners and developers build on the GitHub platform
 - 🤖 **AI-assisted development** — GitHub Copilot adoption and modern developer workflows
 - 🚀 **Cloud & DevOps** — multi-cloud architecture, CI/CD with GitHub Actions, and infrastructure as code
-- 🌎 **LATAM developer ecosystem** — growing and empowering developer communities across the region
+- 🌎 **LATCAN developer ecosystem** — growing and empowering developer communities across Latin America and Canada
 
 ---
 
