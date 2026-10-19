@@ -155,6 +155,14 @@ Includes current and previously held certifications; dates indicate validity per
 <summary><b>GitHub stats, contribution streak & now playing (Click to expand)</b></summary>
 
 <p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=sviera91&theme=onedark&no-frame=true&no-bg=true&column=6" alt="GitHub profile trophies for sviera91" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sviera91&theme=github_dark" alt="GitHub contribution activity graph for sviera91" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sviera91&theme=github_dark" height="170" alt="GitHub activity statistics for sviera91" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sviera91&theme=github_dark" height="170" alt="Repository counts by programming language for sviera91" />
 </p>
